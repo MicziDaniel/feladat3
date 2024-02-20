@@ -39,6 +39,7 @@ nav ul
 nav li
 {
 	margin-right: 40px;
+	display: inline;
 }
 
 nav li a
@@ -139,11 +140,6 @@ section.contpage
 header
 {
 	height: 200px;
-}
-
-nav
-{
-	display: contents;
 }
 
 article
